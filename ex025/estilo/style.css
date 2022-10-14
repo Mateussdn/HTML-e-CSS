@@ -75,8 +75,9 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url('../imagens/background001.jpg');
-    background-position: right center;
+    
+    background-image: url('../imagens/aline01.png');
+    background-position: top center;
     background-size: cover;
 }
 section#img02 {
